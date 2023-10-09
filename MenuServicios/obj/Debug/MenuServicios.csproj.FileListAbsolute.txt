@@ -13,3 +13,17 @@ C:\Users\sebas\OneDrive\Escritorio\Ene2023-master\MenuServicios\bin\Debug\MySql.
 C:\Users\sebas\OneDrive\Escritorio\Ene2023-master\MenuServicios\bin\Debug\ListadoTrabajadores.pdb
 C:\Users\sebas\OneDrive\Escritorio\Ene2023-master\MenuServicios\bin\Debug\ListadoTrabajadores.exe.config
 C:\Users\sebas\OneDrive\Escritorio\Ene2023-master\MenuServicios\obj\Debug\MenuServicios.csproj.CopyComplete
+C:\Users\sebas\Source\Repos\Shadownlook\Ene2023\MenuServicios\bin\Debug\MenuServicios.exe.config
+C:\Users\sebas\Source\Repos\Shadownlook\Ene2023\MenuServicios\bin\Debug\MenuServicios.exe
+C:\Users\sebas\Source\Repos\Shadownlook\Ene2023\MenuServicios\bin\Debug\MenuServicios.pdb
+C:\Users\sebas\Source\Repos\Shadownlook\Ene2023\MenuServicios\bin\Debug\ListadoTrabajadores.exe
+C:\Users\sebas\Source\Repos\Shadownlook\Ene2023\MenuServicios\bin\Debug\ListadoTrabajadores.pdb
+C:\Users\sebas\Source\Repos\Shadownlook\Ene2023\MenuServicios\bin\Debug\ListadoTrabajadores.exe.config
+C:\Users\sebas\Source\Repos\Shadownlook\Ene2023\MenuServicios\obj\Debug\MenuServicios.csproj.AssemblyReference.cache
+C:\Users\sebas\Source\Repos\Shadownlook\Ene2023\MenuServicios\obj\Debug\MenuServicios.MenuPrincipal.resources
+C:\Users\sebas\Source\Repos\Shadownlook\Ene2023\MenuServicios\obj\Debug\MenuServicios.Properties.Resources.resources
+C:\Users\sebas\Source\Repos\Shadownlook\Ene2023\MenuServicios\obj\Debug\MenuServicios.csproj.GenerateResource.cache
+C:\Users\sebas\Source\Repos\Shadownlook\Ene2023\MenuServicios\obj\Debug\MenuServicios.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Source\Repos\Shadownlook\Ene2023\MenuServicios\obj\Debug\MenuServicios.csproj.CopyComplete
+C:\Users\sebas\Source\Repos\Shadownlook\Ene2023\MenuServicios\obj\Debug\MenuServicios.exe
+C:\Users\sebas\Source\Repos\Shadownlook\Ene2023\MenuServicios\obj\Debug\MenuServicios.pdb

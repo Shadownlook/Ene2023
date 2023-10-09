@@ -8,7 +8,7 @@
         <beforeApplicationStartup />
       </update>
     </subscription>
-    <deploymentProvider codebase="file:///C:/Users/sebas/OneDrive/Escritorio/Ene2023-master/ene2023/publish/ene2023.application" />
+    <deploymentProvider codebase="file:///C:/Users/sebas/Source/Repos/Shadownlook/Ene2023/ene2023/publish/ene2023.application" />
   </deployment>
   <compatibleFrameworks xmlns="urn:schemas-microsoft-com:clickonce.v2">
     <framework targetVersion="4.7.2" profile="Full" supportedRuntime="4.0.30319" />
@@ -21,7 +21,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>QmLkCSdw9lqyJonx2Wj3yHbnKRS5Y0SeRAEKHsEsKac=</dsig:DigestValue>
+        <dsig:DigestValue>w/21sYfPMCNKmU6cVUaxbJy/KSWgwUMpJZQNPiOGg0I=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

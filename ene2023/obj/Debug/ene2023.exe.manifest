@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ene2023.exe" size="10720">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ene2023.exe" size="13280">
       <assemblyIdentity name="ene2023" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>KdpE7b4f27IsTIbM7MaYJ0F2mrG+dvy0TWQme95D+tg=</dsig:DigestValue>
+        <dsig:DigestValue>PJkIq5RKiALH2N5Jk3WbovtjrRJuWR/80TFV61BwzrY=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -61,7 +61,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>C35rbdsNzQAmrOt2PxXpIL+QV+8ibCTvS+zAlm0qzJU=</dsig:DigestValue>
+        <dsig:DigestValue>arDB16xvQodwTdPEoK/MWjr1HzM7g37qKVkEPml/dPA=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -73,12 +73,12 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>rOpj3gq/gV8TEpe0eED4/tDLitxGih8QzgI5V0aNE2o=</dsig:DigestValue>
+        <dsig:DigestValue>NYZteYvW+Bl3MipDm26DTWQWv0Xbrd65WXgV6gGYVIc=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MySql.Data.DLL" size="1187328">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MySql.Data.dll" size="1187328">
       <assemblyIdentity name="MySql.Data" version="8.0.33.0" publicKeyToken="C5687FC88969C44D" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
@@ -89,13 +89,13 @@
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="ene2023.exe.config" size="295">
+  <file name="ene2023.exe.config" size="303">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>rF59F1VAWWbcul2ud5npDJNnWwfV+ANCaREQr23jqgM=</dsig:DigestValue>
+      <dsig:DigestValue>zh/FF4QXX5SZt2vxLiY32LhDJV2YROWrAfPoC1F+uMw=</dsig:DigestValue>
     </hash>
   </file>
 </asmv1:assembly>

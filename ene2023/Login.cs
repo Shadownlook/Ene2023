@@ -42,7 +42,14 @@ namespace ene2023
             }
             else
             {
-                MessageBox.Show("Nombre de usuario o contraseña incorrectos.");
+                if (userValidation.IsAccountLocked(username))
+                {
+                    MessageBox.Show("La cuenta está bloqueada. Comuníquese con el administrador.");
+                }
+                else
+                {
+                    MessageBox.Show("Nombre de usuario o contraseña incorrectos.");
+                }
             }
         }
     }
